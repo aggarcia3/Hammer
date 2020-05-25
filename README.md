@@ -1,7 +1,7 @@
 # Hammer
 _Hammer_ es una aplicación de línea de comandos escrita en Java 8 (o posterior) que codifica cualquier flujo de bytes a un fichero de acuerdo a un código Hamming ampliado (3, 2) sistemático, y luego permite decodificarlo, corrigiendo errores que pudiese haber. El funcionamiento de la codificación consiste en dividir cada byte de entrada en dos nibbles (grupos de 4 bits), que se codifican sucesivamente con el código Hamming comentado, correspondiéndole a cada nibble (vector fuente) un vector código de un byte (por tanto, un byte de entrada pasa a ocupar dos). Por las propiedades del código, se pueden corregir errores de un bit, y detectar errores de dos bits, en la recepción de cada nibble.
 
-![Diagrama de codificación de Hammer](https://github.com/aggarcia3/Hammer/raw/master/Diagrama%20codificaci%C3%B3n%20Hammer.svg)
+<p align="center"><img src="https://github.com/aggarcia3/Hammer/raw/master/Diagrama%20codificaci%C3%B3n%20Hammer.svg" alt="Diagrama de codificación de Hammer"></p>
 
 ## Ejemplos de codificación y decodificación
 Antes de nada, es conveniente conocer las opciones y modos de funcionamiento ofrecidos por Hammer, que se pueden visualizar ejecutando `Hammer.jar` con una máquina virtual de Java. Normalmente, basta con ejecutar el siguiente comando en un terminal, si `Hammer.jar` se encuentra en el directorio de trabajo actual:
