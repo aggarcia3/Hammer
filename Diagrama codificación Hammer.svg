@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="8.26772in" height="11.6929in" viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st11">
+	<title>Diagrama Hammer</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Source Sans Pro, Arial, sans-serif;font-size:0.666664em}
+		.st3 {baseline-shift:-33.3488%;font-size:0.666976em}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24;visibility:hidden}
+		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:Source Sans Pro, Arial, sans-serif;font-size:0.833336em}
+		.st7 {marker-end:url(#mrkr4-100);stroke:#000000;stroke-linecap:butt;stroke-width:0.75}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st9 {font-size:0.799995em}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-100" class="st8" refX="-8.72" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>Página-1</title>
+		<g id="group1-1" transform="translate(34.0157,-770.275)">
+			<title>Matriz</title>
+			<g id="shape2-2" transform="translate(135.301,0)">
+				<title>Hoja.2</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">0</tspan></text>			</g>
+			<g id="shape3-6" transform="translate(115.972,0)">
+				<title>Hoja.3</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">1</tspan></text>			</g>
+			<g id="shape4-10" transform="translate(96.6437,0)">
+				<title>Hoja.4</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">2</tspan></text>			</g>
+			<g id="shape5-14" transform="translate(77.315,0)">
+				<title>Hoja.5</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">3</tspan></text>			</g>
+			<g id="shape6-18" transform="translate(57.9862,0)">
+				<title>Hoja.6</title>
+				<desc>b4</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">4</tspan></text>			</g>
+			<g id="shape7-22" transform="translate(38.6575,0)">
+				<title>Hoja.7</title>
+				<desc>b5</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">5</tspan></text>			</g>
+			<g id="shape8-26" transform="translate(19.3287,0)">
+				<title>Hoja.8</title>
+				<desc>b6</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">6</tspan></text>			</g>
+			<g id="shape9-30">
+				<title>Hoja.9</title>
+				<desc>b7</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">7</tspan></text>			</g>
+		</g>
+		<g id="shape12-34" transform="translate(42.5197,0)">
+			<title>Matriz.8</title>
+			<desc>b6</desc>
+			<rect x="0" y="827.717" width="42.5197" height="14.1732" class="st4"/>
+		</g>
+		<g id="shape40-36" transform="translate(34.0157,-747.248)">
+			<title>Hoja.40</title>
+			<desc>Byte de entrada</desc>
+			<rect x="0" y="821.89" width="155.108" height="20" class="st5"/>
+			<text x="44.4" y="834.89" class="st6">Byte de entrada</text>		</g>
+		<g id="shape43-39" transform="translate(224.557,-767.878)">
+			<title>Hoja.43</title>
+			<desc>Nibble 1</desc>
+			<rect x="0" y="821.89" width="77.9528" height="20" class="st5"/>
+			<text x="25.19" y="834.29" class="st2">Nibble 1</text>		</g>
+		<g id="shape44-42" transform="translate(224.557,-732.445)">
+			<title>Hoja.44</title>
+			<desc>Nibble 2</desc>
+			<rect x="0" y="821.89" width="77.9528" height="20" class="st5"/>
+			<text x="25.19" y="834.29" class="st2">Nibble 2</text>		</g>
+		<g id="group45-45" transform="translate(223.848,-788.508)">
+			<title>Matriz.45</title>
+			<g id="shape46-46" transform="translate(135.301,0)">
+				<title>Hoja.46</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape47-48" transform="translate(115.972,0)">
+				<title>Hoja.47</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape48-50" transform="translate(96.6437,0)">
+				<title>Hoja.48</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape49-52" transform="translate(77.315,0)">
+				<title>Hoja.49</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape50-54" transform="translate(57.9862,0)">
+				<title>Hoja.50</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">0</tspan></text>			</g>
+			<g id="shape51-58" transform="translate(38.6575,0)">
+				<title>Hoja.51</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">1</tspan></text>			</g>
+			<g id="shape52-62" transform="translate(19.3287,0)">
+				<title>Hoja.52</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">2</tspan></text>			</g>
+			<g id="shape53-66">
+				<title>Hoja.53</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">3</tspan></text>			</g>
+		</g>
+		<g id="group54-70" transform="translate(224.557,-753.075)">
+			<title>Matriz.54</title>
+			<g id="shape55-71" transform="translate(135.301,0)">
+				<title>Hoja.55</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape56-73" transform="translate(115.972,0)">
+				<title>Hoja.56</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape57-75" transform="translate(96.6437,0)">
+				<title>Hoja.57</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape58-77" transform="translate(77.315,0)">
+				<title>Hoja.58</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape59-79" transform="translate(57.9862,0)">
+				<title>Hoja.59</title>
+				<desc>b4</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">4</tspan></text>			</g>
+			<g id="shape60-83" transform="translate(38.6575,0)">
+				<title>Hoja.60</title>
+				<desc>b5</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">5</tspan></text>			</g>
+			<g id="shape61-87" transform="translate(19.3287,0)">
+				<title>Hoja.61</title>
+				<desc>b6</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">6</tspan></text>			</g>
+			<g id="shape62-91">
+				<title>Hoja.62</title>
+				<desc>b7</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">7</tspan></text>			</g>
+		</g>
+		<g id="shape63-95" transform="translate(188.646,-777.361)">
+			<title>Conector dinámico</title>
+			<path d="M0 841.89 L11.11 841.89 L11.11 823.66 L28.66 823.66" class="st7"/>
+		</g>
+		<g id="shape64-101" transform="translate(188.646,-777.361)">
+			<title>Conector dinámico.64</title>
+			<path d="M0 841.89 L11.11 841.89 L11.11 859.09 L29.37 859.09" class="st7"/>
+		</g>
+		<g id="shape104-106" transform="translate(362.037,-777.453)">
+			<title>Rectángulo</title>
+			<desc>Palabra código 1 (1 byte)</desc>
+			<rect x="0" y="808.634" width="113.386" height="33.2559" class="st1"/>
+			<text x="21.82" y="822.26" class="st6">Palabra código 1<tspan x="44.07" dy="1.5em" class="st9">(</tspan><tspan
+						class="st9">1 </tspan><tspan class="st9">byte</tspan><tspan class="st9">)</tspan></text>		</g>
+		<g id="group105-113" transform="translate(114.407,-1070.13)">
+			<title>Matriz.105</title>
+			<g id="shape106-114" transform="translate(135.301,0)">
+				<title>Hoja.106</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">0</tspan></text>			</g>
+			<g id="shape107-118" transform="translate(115.972,0)">
+				<title>Hoja.107</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">1</tspan></text>			</g>
+			<g id="shape108-122" transform="translate(96.6437,0)">
+				<title>Hoja.108</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">2</tspan></text>			</g>
+			<g id="shape109-126" transform="translate(77.315,0)">
+				<title>Hoja.109</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">3</tspan></text>			</g>
+			<g id="shape110-130" transform="translate(57.9862,0)">
+				<title>Hoja.110</title>
+				<desc>b4</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">4</tspan></text>			</g>
+			<g id="shape111-134" transform="translate(38.6575,0)">
+				<title>Hoja.111</title>
+				<desc>b5</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">5</tspan></text>			</g>
+			<g id="shape112-138" transform="translate(19.3287,0)">
+				<title>Hoja.112</title>
+				<desc>b6</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">6</tspan></text>			</g>
+			<g id="shape113-142">
+				<title>Hoja.113</title>
+				<desc>b7</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">7</tspan></text>			</g>
+		</g>
+		<g id="shape114-146" transform="translate(42.5197,0)">
+			<title>Matriz.114</title>
+			<desc>b6</desc>
+			<rect x="0" y="827.717" width="42.5197" height="14.1732" class="st4"/>
+		</g>
+		<g id="shape115-148" transform="translate(114.407,-1047.11)">
+			<title>Hoja.115</title>
+			<desc>Byte de entrada</desc>
+			<rect x="0" y="821.89" width="155.108" height="20" class="st5"/>
+			<text x="44.4" y="834.89" class="st6">Byte de entrada</text>		</g>
+		<g id="shape116-151" transform="translate(304.948,-1067.74)">
+			<title>Hoja.116</title>
+			<desc>Palabra fuente 1</desc>
+			<rect x="0" y="821.89" width="77.9528" height="20" class="st5"/>
+			<text x="11.6" y="834.29" class="st2">Palabra fuente 1</text>		</g>
+		<g id="shape117-154" transform="translate(304.948,-1032.3)">
+			<title>Hoja.117</title>
+			<desc>Palabra fuente 2</desc>
+			<rect x="0" y="821.89" width="77.9528" height="20" class="st5"/>
+			<text x="11.6" y="834.29" class="st2">Palabra fuente 2</text>		</g>
+		<g id="group118-157" transform="translate(304.239,-1088.37)">
+			<title>Matriz.118</title>
+			<g id="shape119-158" transform="translate(135.301,0)">
+				<title>Hoja.119</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape120-160" transform="translate(115.972,0)">
+				<title>Hoja.120</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape121-162" transform="translate(96.6437,0)">
+				<title>Hoja.121</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape122-164" transform="translate(77.315,0)">
+				<title>Hoja.122</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape123-166" transform="translate(57.9862,0)">
+				<title>Hoja.123</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">0</tspan></text>			</g>
+			<g id="shape124-170" transform="translate(38.6575,0)">
+				<title>Hoja.124</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">1</tspan></text>			</g>
+			<g id="shape125-174" transform="translate(19.3287,0)">
+				<title>Hoja.125</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">2</tspan></text>			</g>
+			<g id="shape126-178">
+				<title>Hoja.126</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">3</tspan></text>			</g>
+		</g>
+		<g id="group127-182" transform="translate(304.948,-1052.93)">
+			<title>Matriz.127</title>
+			<g id="shape128-183" transform="translate(135.301,0)">
+				<title>Hoja.128</title>
+				<desc>b0</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape129-185" transform="translate(115.972,0)">
+				<title>Hoja.129</title>
+				<desc>b1</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape130-187" transform="translate(96.6437,0)">
+				<title>Hoja.130</title>
+				<desc>b2</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape131-189" transform="translate(77.315,0)">
+				<title>Hoja.131</title>
+				<desc>b3</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st4"/>
+			</g>
+			<g id="shape132-191" transform="translate(57.9862,0)">
+				<title>Hoja.132</title>
+				<desc>b4</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">4</tspan></text>			</g>
+			<g id="shape133-195" transform="translate(38.6575,0)">
+				<title>Hoja.133</title>
+				<desc>b5</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">5</tspan></text>			</g>
+			<g id="shape134-199" transform="translate(19.3287,0)">
+				<title>Hoja.134</title>
+				<desc>b6</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">6</tspan></text>			</g>
+			<g id="shape135-203">
+				<title>Hoja.135</title>
+				<desc>b7</desc>
+				<rect x="0" y="827.717" width="19.3287" height="14.1732" class="st1"/>
+				<text x="6.13" y="837.2" class="st2">b<tspan dy="-0.289em" class="st3">7</tspan></text>			</g>
+		</g>
+		<g id="shape136-207" transform="translate(269.036,-1077.22)">
+			<title>Conector dinámico.136</title>
+			<path d="M0 841.89 L11.11 841.89 L11.11 823.66 L28.66 823.66" class="st7"/>
+		</g>
+		<g id="shape137-212" transform="translate(269.036,-1077.22)">
+			<title>Conector dinámico.137</title>
+			<path d="M0 841.89 L11.11 841.89 L11.11 859.09 L29.37 859.09" class="st7"/>
+		</g>
+		<g id="shape138-217" transform="translate(389.987,-1088.37)">
+			<title>Rectángulo.138</title>
+			<rect x="0" y="821.89" width="113.386" height="20" class="st1"/>
+		</g>
+		<g id="shape139-219" transform="translate(362.037,-745.047)">
+			<title>Rectángulo.139</title>
+			<desc>Palabra código 2 (1 byte)</desc>
+			<rect x="0" y="809.484" width="113.386" height="32.4055" class="st1"/>
+			<text x="21.82" y="822.69" class="st6">Palabra código 2<tspan x="44.07" dy="1.5em" class="st9">(</tspan><tspan
+						class="st9">1 </tspan><tspan class="st9">byte</tspan><tspan class="st9">)</tspan></text>		</g>
+		<g id="shape140-226" transform="translate(301.163,-801.924)">
+			<title>Conector dinámico.140</title>
+			<desc>HA(3, 2)</desc>
+			<path d="M0 848.22 L54.34 849.57" class="st7"/>
+			<rect x="17.4573" y="844.177" width="25.9596" height="9.59985" class="st10"/>
+			<text x="17.46" y="851.38" class="st2">HA(3, 2)</text>		</g>
+		<g id="shape141-233" transform="translate(301.872,-753.619)">
+			<title>Conector dinámico.141</title>
+			<desc>HA(3, 2)</desc>
+			<path d="M0 835.35 L53.63 834.38" class="st7"/>
+			<rect x="17.1029" y="830.003" width="25.9596" height="9.59985" class="st10"/>
+			<text x="17.1" y="837.2" class="st2">HA(3, 2)</text>		</g>
+	</g>
+</svg>
